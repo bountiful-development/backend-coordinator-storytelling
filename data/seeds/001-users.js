@@ -11,7 +11,21 @@ exports.seed = function(knex, Promise) {
           email: "this@that.net",
           country: "Peru",
           title: "Backend dude",
-          role: "coordinator" }
+          role: "coordinator" },
+        {
+            username: "Ryan",
+            password: "thiswillbehidden",
+            email: "this@that.net",
+            country: "Peru",
+            title: "Backend dude",
+            role: "coordinator" },
+        {
+              username: "Nick",
+              password: "thiswillbehidden",
+              email: "this@that.net",
+              country: "Peru",
+              title: "Backend dude",
+              role: "coordinator" },
       ]);
     });
 };
