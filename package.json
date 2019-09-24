@@ -10,18 +10,18 @@
     "test": "jest --watch --verbose"
   },
   "devDependencies": {
-    "jest": "^24.5.0",
-    "nodemon": "^1.18.10",
-    "supertest": "^4.0.0"
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.2",
+    "supertest": "^4.0.2"
   },
   "dependencies": {
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^3.0.6",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
-    "helmet": "^3.16.0",
-    "jsonwebtoken": "^8.5.0",
-    "knex": "^0.16.3",
-    "pg": "^7.8.2",
-    "sqlite3": "^4.0.6"
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.16.5",
+    "pg": "^7.12.1",
+    "sqlite3": "^4.1.0"
   }
 }
